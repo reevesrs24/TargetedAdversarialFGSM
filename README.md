@@ -1,2 +1,2 @@
 # TargetedAdversarialFGSM
-Fast Gradient Sign Attack (FGSA) creating targeted specific misclassification outputs.  
+Fast Gradient Sign Attack (FGSA) creating targeting specific misclassification outputs.  
