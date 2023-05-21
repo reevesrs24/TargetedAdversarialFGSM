@@ -12,3 +12,7 @@ fgsm.display_results()
   <img width="660" height="450" src="images/output.png">
   <p align="center"><i>Adversarial output images</i></p>
 </p>
+
+
+References:
+https://pytorch.org/tutorials/beginner/fgsm_tutorial.html
